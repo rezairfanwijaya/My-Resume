@@ -1,0 +1,193 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "name": "Reza Irfan Wijaya",
+    "email": "rezairfanwijaya23@gmail.com",
+    "phone": "083844477447",
+    "location": {
+      "address": "Jakarta"
+    },
+    "website": "https://rezairfan.vercel.app/"
+  },
+  "education": [
+    {
+      "institution": "Telkom Purwokerto Institute of Technology",
+      "location": "Purwokerto, Jawa Tengah",
+      "area": "Informatics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "Oct 2019",
+      "endDate": "Aug 2023",
+      "gpa": "3.77"
+    }
+  ],
+  "work": [
+    {
+      "company": "PT Mid Solusi Nusantara",
+      "location": "Jakarta, Indonesia",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "Jul 2022",
+      "endDate": "Oct 2022",
+      "highlights": [
+        "Assisted 4 client companies in integrating with Talenta Systems in oncall activities",
+        "Create 1 endpoint in Golang language",
+        "Helping client companies to get employee loans by implementing callbacks in PHP",
+        "Collaborate with 2 QA people to carry out feature testing",
+        "Fixed 1 bug in the disbursement feature so that 75 employees did not have a loan burden",
+        "Completed 2 unit tests for 2 apis on Golang increasing coverage to 100%"
+      ]
+    },
+    {
+      "highlights": [
+        "Complete 2 code challenges every day",
+        "Attend 2 meeting sessions every day",
+        "Conduct code review with 4 teammates",
+        "Initiated the creation of a contract api to assist the frontend and backend in carrying out api integration",
+        "Migrating 8 tables in SQLite3 so that teammates get the latest data from the database",
+        "Mentoring 1 backend friend so they can work on the feature correctly",
+        "Achieved 2nd position in grader with a total of 29 students",
+        "Completed the final project within 2 weeks"
+      ],
+      "company": "PT Ruang Raya Indonesia",
+      "position": "Backend Engineer Studi Independent Kampus Merdeka",
+      "location": "Jakarta, Indonesia",
+      "startDate": "Feb 2002",
+      "endDate": "Jul 2002"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Golang",
+        "Javascript",
+        "PHP"
+      ]
+    },
+    {
+      "keywords": [
+        "GIN",
+        "Echo",
+        "Fiber",
+        "Mockery",
+        "Testify",
+        "SqlMock",
+        "Reactjs"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "name": "Database"
+    },
+    {
+      "keywords": [
+        "Rest API"
+      ],
+      "name": "API"
+    },
+    {
+      "keywords": [
+        "Communication",
+        "Communication",
+        "Problem solving",
+        "Chritical thinking"
+      ],
+      "name": "Others"
+    }
+  ],
+  "projects": [
+    {
+      "name": "URL Shortener",
+      "url": "https://link-pendek.vercel.app/",
+      "keywords": [
+        "Javascript",
+        "Reactjs",
+        "Tailwind",
+        "Vercel"
+      ],
+      "description": "Websites that can shorten links from very long links to short ones"
+    },
+    {
+      "keywords": [
+        "Javcasctipt",
+        "Reactjs",
+        "Tailwind",
+        "Vercel"
+      ],
+      "name": "Personal Website",
+      "description": "Website that displays professional projects and information",
+      "url": "https://rezairfan.vercel.app/"
+    },
+    {
+      "keywords": [
+        "Golang",
+        "Javascript",
+        "GIN",
+        "Reactjs",
+        "Tailwind",
+        "MySQL",
+        "Postman",
+        "Rest API"
+      ],
+      "name": "Scholarship Registration",
+      "description": "Website that provides services for registering scholarships",
+      "url": "https://github.com/rezairfanwijaya/simple-scholarship-registration"
+    },
+    {
+      "keywords": [
+        "Golang",
+        "Javascript",
+        "GIN",
+        "Reactjs",
+        "Tailwind",
+        "SQLite3",
+        "Postman",
+        "Rest API"
+      ],
+      "name": "Exam Time",
+      "description": "Website used to conduct online exams at primary level schools",
+      "url": "https://github.com/rezairfanwijaya/Exam-Time"
+    }
+  ],
+  "awards": [
+    {
+      "title": "BNSP Junior Web Developer",
+      "date": "Jun 2023",
+      "summary": "Complete certification assignments for junior web developers from BNSP",
+      "awarder": "BNSP"
+    },
+    {
+      "title": "HAKI (Hak Kekayaan Intelektual)",
+      "date": "Jul 2023",
+      "awarder": "Kementerian Hukum dan Hak Asasi Manusia",
+      "summary": "Copyright of the tracer study website Telkom Purwokerto Institute of Technology campus"
+    },
+    {
+      "title": "Golang Basic HackerRank",
+      "date": "Jun 2022",
+      "awarder": "HackerRank",
+      "summary": "Complete all golang basic challenges on HackerRank"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
