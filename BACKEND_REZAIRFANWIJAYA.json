@@ -29,6 +29,23 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Research 5 product analytic tools, and try them to integrate with existing systems ",
+        "Research about email crawlers, and implement them to automate reading emails from clients",
+        "Coding and reviewing pull request ",
+        "Collaborate with QA for testing on each task in staging",
+        "Pair programming with senior software engineers and my peers",
+        "Wrote 78 queries to update existing config in the database",
+        "Fixed production bugs with my manager",
+        ""
+      ],
+      "company": "PT Match Made Indonesia",
+      "position": "Junior Software Engineer",
+      "location": "Jakarta, Indonesia",
+      "startDate": "Oct 2023",
+      "endDate": "Present"
+    },
+    {
       "company": "PT Mid Solusi Nusantara",
       "location": "Jakarta, Indonesia",
       "position": "Software Engineer Intern",
@@ -68,8 +85,7 @@
       "level": "",
       "keywords": [
         "Golang",
-        "Javascript",
-        "PHP"
+        "Javascript"
       ]
     },
     {
@@ -80,7 +96,8 @@
         "Mockery",
         "Testify",
         "SqlMock",
-        "Reactjs"
+        "Reactjs",
+        "Nextjs"
       ],
       "name": "Frameworks"
     },
